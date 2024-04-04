@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Personal Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "Personal portfolio website created using React.js",
+    "skills": ["React", "Express", "Node", "JSON", "HTML", "CSS", "JSON"],
+    "source": "https://github.com/MessiAdiga/react-portfolio"
+  },
+  {
+    "title": "3D T-shirt customizer ",
+    "imageSrc": "projects/threejs.png",
+    "description": "3D SaaS website created using Three.js and AI features",
+    "skills": ["React", "Express", "Node", "Sass", "Three.js", "OpenAI"],
+    "source": "https://github.com/MessiAdiga/threejs-tshirt-customizer"
+  },
+  {
+    "title": "REST API",
+    "imageSrc": "projects/nhtsa.png",
+    "description": "API used to retrieve vehicle information from National Highway Traffic Safety Administration",
+    "skills": ["Express", "Node", "Mocha", "Chai", "JavaScript"],
+    "source": "https://github.com/MessiAdiga/Node.js-REST_API"
+  },
+  {
+    "title": "Stop watch",
+    "imageSrc": "projects/stopwatch.png",
+    "description": "A simple stop watch application created using React.js",
+    "skills": ["React.js", "Node", "HTML", "CSS", "JavaScript"],
+    "source": "https://github.com/MessiAdiga/stop-watch-react"
+  },
+  {
+    "title": "Car rental application",
+    "imageSrc": "projects/rentit.png",
+    "description": "A car rental project created using Java with Spring",
+    "skills": ["Java", "Spring", "HTML", "CSS", "JavaScript"],
+    "source": "https://github.com/MessiAdiga/Rent-it"
+  }
+]
