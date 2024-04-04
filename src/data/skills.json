@@ -1,0 +1,100 @@
+[
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/typescript.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Shell",
+    "imageSrc": "skills/shell.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+
+  {
+    "title": "Visual Studio",
+    "imageSrc": "skills/visualstudio.png"
+  },
+  {
+    "title": "Eclipse",
+    "imageSrc": "skills/eclipse.png"
+  },
+  {
+    "title": "Windows",
+    "imageSrc": "skills/windows.png"
+  },
+  {
+    "title": "Linux",
+    "imageSrc": "skills/linux.png"
+  },
+  {
+    "title": "iOS",
+    "imageSrc": "skills/ios.png"
+  },
+  {
+    "title": "Jest",
+    "imageSrc": "skills/jest.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "Amazon S3",
+    "imageSrc": "skills/amazons3.png"
+  },
+  {
+    "title": "Jira",
+    "imageSrc": "skills/jira.png"
+  },
+  {
+    "title": "Bitbucket",
+    "imageSrc": "skills/bitbucket.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },
+  {
+    "title": "JSON",
+    "imageSrc": "skills/json.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+]

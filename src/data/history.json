@@ -1,0 +1,47 @@
+[
+    {
+    "role": "Freelancing",
+    "organisation": "",
+    "startDate": "Jan, 2023",
+    "endDate": "Present",
+    "experiences": ["Attended workshops to enhance proficiency in web development", 
+    "Freelance Software Developer"],
+    "imageSrc": "history/freelance.png"
+  },
+  {
+    "role": "Backend Engineer",
+    "organisation": "Carshair",
+    "startDate": "Sept, 2021",
+    "endDate": "Dec, 2022",
+    "experiences": ["Specialized in developing and maintaining secure REST APIs and microservices for a car rental app, utilizing Node.js and TypeScript", 
+    "Participated in end-to-end Application Development lifecycle, contributing from requirements gathering to system implementation"],
+    "imageSrc": "history/carshair.png"
+  },
+  {
+    "role": "Masters Degree",
+    "organisation": "Concordia University",
+    "startDate": "Jan, 2019",
+    "endDate": "Dec, 2020",
+    "experiences": ["Software Engineering"],
+    "imageSrc": "history/concordia.png"
+  },
+  {
+    "role": "Senior Systems Engineer",
+    "organisation": "Infosys Ltd.",
+    "startDate": "Dec, 2015",
+    "endDate": "Aug, 2018",
+    "experiences": [
+      "Full-stack developer - Inventory Management application for chain of arts and crafts store ",
+      "Application support analyst - Technical support for 130+ websites for an International food and snack based company"
+    ],
+    "imageSrc": "history/infosys.png"
+  },
+  {
+    "role": "Bachelors Degree",
+    "organisation": "National Institute of Engineering",
+    "startDate": "May, 2011",
+    "endDate": "Jun, 2015",
+    "experiences": ["Computer Science"],
+    "imageSrc": "history/nie.png"
+  }
+]
